@@ -2,6 +2,10 @@
 
 > Projeto inicialmente desenvolvido e finalizado em Março de 2024 para a matéria de Sistemas Operacionais.
 
+![C](https://img.shields.io/badge/Linguagem-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Linguagem-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat)
+
 ## Definição do Problema
 
 O Problema do Barbeiro Dorminhoco é um clássico problema de sincronização em programação concorrente, proposto por Edsger Dijkstra. A situação é a seguinte: uma barbearia possui um barbeiro, uma cadeira de atendimento e um número limitado de cadeiras na sala de espera. Quando não há clientes, o barbeiro dorme. Ao chegar um cliente, ele acorda o barbeiro caso ele esteja dormindo, ou aguarda em uma das cadeiras disponíveis. Se todas as cadeiras estiverem ocupadas, o cliente vai embora.
