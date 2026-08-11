@@ -2,9 +2,9 @@
 
 > Projeto inicialmente desenvolvido e finalizado em Março de 2024 para a matéria de Sistemas Operacionais.
 
-![C](https://img.shields.io/badge/Linguagem-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/Linguagem-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat)
+![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=plastic)
 
 ## Definição do Problema
 
